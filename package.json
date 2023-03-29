@@ -1,0 +1,44 @@
+{
+  "name": "online_classes_web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "agora-rtc-sdk-ng": "^4.8.2",
+    "axios": "^0.25.0",
+    "core-js": "^3.6.5",
+    "echarts": "^4.9.0",
+    "element-ui": "^2.15.6",
+    "font-awesome": "^4.7.0",
+    "js-file-download": "^0.4.12",
+    "nanoid": "^3.3.2",
+    "sockjs-client": "^1.5.2",
+    "stompjs": "^2.3.3",
+    "videojs-contrib-hls": "^5.15.0",
+    "vue": "^2.6.11",
+    "vue-baberrage": "^3.2.4",
+    "vue-jsonp": "^2.0.0",
+    "vue-router": "^3.2.0",
+    "vue-video-player": "^5.0.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^10.2.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
